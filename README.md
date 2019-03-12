@@ -1,2 +1,2 @@
 #GitPractice
-practice repo for git commands
+edited on client
