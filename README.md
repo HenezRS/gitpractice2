@@ -1,2 +1,2 @@
 #GitPractice
-practice repo for git commands
+updated on working dir
